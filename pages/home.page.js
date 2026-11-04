@@ -20,6 +20,6 @@ class HomePage{
     //Assert - Validaçoes
     
 
+}//fecha a classe 
 
-
-}//fecha a classe p
+export default HomePage // Torna a classe visivel
